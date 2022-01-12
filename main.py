@@ -1,7 +1,7 @@
 import encoder 
 
 def main():
-    encoder.encode("WALTER70","walter.mp4",.1,1,50)
+    encoder.encode("WALTER71","walter.mp4",.15,4,10)
 
 if __name__== "__main__":
     main()
